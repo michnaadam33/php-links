@@ -6,4 +6,5 @@ Autoformat - https://github.com/Chiel92/vim-autoformat
 YouCompleteMe - https://github.com/Valloric/YouCompleteMe - Autocomplete    
 Syntasic - https://github.com/vim-syntastic/syntastic - Syntax checking        
 Javascript - https://github.com/pangloss/vim-javascript    
-Lightline - https://github.com/itchyny/lightline.vim - Statusline
+Lightline - https://github.com/itchyny/lightline.vim - Statusline    
+DelimitMate - https://github.com/Raimondi/delimitMate - Closing of quotes
