@@ -7,4 +7,6 @@ YouCompleteMe - https://github.com/Valloric/YouCompleteMe - Autocomplete
 Syntasic - https://github.com/vim-syntastic/syntastic - Syntax checking        
 Javascript - https://github.com/pangloss/vim-javascript    
 Lightline - https://github.com/itchyny/lightline.vim - Statusline    
-DelimitMate - https://github.com/Raimondi/delimitMate - Closing of quotes
+DelimitMate - https://github.com/Raimondi/delimitMate - Closing of quotes    
+ColorSchemes - https://github.com/flazz/vim-colorschemes - Color schemes    
+NERDTree - https://github.com/scrooloose/nerdtree - Directory tree    
