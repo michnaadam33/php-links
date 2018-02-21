@@ -10,3 +10,5 @@ Lightline - https://github.com/itchyny/lightline.vim - Statusline
 DelimitMate - https://github.com/Raimondi/delimitMate - Closing of quotes    
 ColorSchemes - https://github.com/flazz/vim-colorschemes - Color schemes    
 NERDTree - https://github.com/scrooloose/nerdtree - Directory tree    
+Easymotion - https://github.com/easymotion/vim-easymotion - Jumping on file    
+Gitgutter - https://github.com/airblade/vim-gitgutter - Git line modyfi
